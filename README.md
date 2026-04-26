@@ -1,6 +1,6 @@
 # <img src="https://img.shields.io/badge/-Hi!-blueviolet?style=for-the-badge&logo=handshake" alt="Hi"> I'm luauy!
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=luauy&theme=algolia&column=7&margin-w=5&margin-h=15&no-frame=true)
+![GitHub Trophies](https://trophy.benkou.dev/?username=luauy&theme=gruvbox)
 
 Welcome to my GitHub profile!  
 I’m a passionate Hobbyist, Software Developer, and Hacks Developer for Games.
